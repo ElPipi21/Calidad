@@ -1,0 +1,99 @@
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\CapaPersistencia.dll.config
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\CapaPersistencia.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\CapaPersistencia.pdb
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\BouncyCastle.Crypto.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\CapaDominio.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\Google.Protobuf.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\K4os.Compression.LZ4.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\K4os.Hash.xxHash.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\MySql.Data.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\Renci.SshNet.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Buffers.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Memory.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Numerics.Vectors.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\Ubiety.Dns.Core.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\Zstandard.Net.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\CapaDominio.pdb
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\Google.Protobuf.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\K4os.Compression.LZ4.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\K4os.Hash.xxHash.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\MySql.Data.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\Renci.SshNet.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Buffers.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Memory.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Numerics.Vectors.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\obj\Debug\CapaPersistencia.csprojAssemblyReference.cache
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CoreCompileInputs.cache
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CopyComplete
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\obj\Debug\CapaPersistencia.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPersistencia\obj\Debug\CapaPersistencia.pdb
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\CapaPersistencia.dll.config
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\CapaPersistencia.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\CapaPersistencia.pdb
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\BouncyCastle.Crypto.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\CapaDominio.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\Google.Protobuf.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\K4os.Compression.LZ4.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\K4os.Hash.xxHash.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\MySql.Data.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\Renci.SshNet.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Buffers.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Memory.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Numerics.Vectors.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\Ubiety.Dns.Core.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\Zstandard.Net.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\CapaDominio.pdb
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\Google.Protobuf.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\K4os.Compression.LZ4.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\K4os.Hash.xxHash.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\MySql.Data.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\Renci.SshNet.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Buffers.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Memory.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Numerics.Vectors.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\obj\Debug\CapaPersistencia.csprojAssemblyReference.cache
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CoreCompileInputs.cache
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CopyComplete
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\obj\Debug\CapaPersistencia.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPersistencia\obj\Debug\CapaPersistencia.pdb
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\CapaPersistencia.dll.config
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\CapaPersistencia.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\CapaPersistencia.pdb
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\CapaDominio.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\Google.Protobuf.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\MySql.Data.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\Renci.SshNet.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Buffers.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Memory.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\Zstandard.Net.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\CapaDominio.pdb
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\Google.Protobuf.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\MySql.Data.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\Renci.SshNet.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Buffers.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Memory.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\obj\Debug\CapaPersistencia.csprojAssemblyReference.cache
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CoreCompileInputs.cache
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CopyComplete
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\obj\Debug\CapaPersistencia.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPersistencia\obj\Debug\CapaPersistencia.pdb

@@ -1,0 +1,6 @@
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaDominio\bin\Debug\CapaDominio.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaDominio\bin\Debug\CapaDominio.pdb
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaDominio\obj\Debug\CapaDominio.csprojAssemblyReference.cache
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaDominio\obj\Debug\CapaDominio.csproj.CoreCompileInputs.cache
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaDominio\obj\Debug\CapaDominio.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaDominio\obj\Debug\CapaDominio.pdb

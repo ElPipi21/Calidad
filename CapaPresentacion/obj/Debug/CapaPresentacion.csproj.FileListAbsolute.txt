@@ -1,0 +1,324 @@
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\CapaPresentacion.dll.config
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\CapaPresentacion.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\CapaPresentacion.pdb
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\csc.exe
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\csc.exe.config
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\csc.rsp
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\csi.exe
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\csi.exe.config
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\csi.rsp
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.AppContext.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Console.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Globalization.Calendars.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.IO.Compression.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Net.Http.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Net.Sockets.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.ValueTuple.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Xml.XPath.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\vbc.exe
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\vbc.exe.config
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\vbc.rsp
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\Antlr3.Runtime.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\CapaAplicacion.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\CapaDominio.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\Microsoft.Web.Infrastructure.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\Newtonsoft.Json.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Helpers.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Mvc.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Optimization.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Razor.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.WebPages.Deployment.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.WebPages.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.WebPages.Razor.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\WebGrease.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\CapaPersistencia.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\MySql.Data.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\Google.Protobuf.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\Zstandard.Net.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\K4os.Compression.LZ4.Streams.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\BouncyCastle.Crypto.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\Ubiety.Dns.Core.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\Renci.SshNet.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Buffers.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\K4os.Compression.LZ4.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\K4os.Hash.xxHash.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Memory.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Numerics.Vectors.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\CapaAplicacion.pdb
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\CapaDominio.pdb
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Helpers.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Mvc.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Optimization.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Razor.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.WebPages.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.WebPages.Deployment.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.WebPages.Razor.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\Newtonsoft.Json.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\Antlr3.Runtime.pdb
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\CapaPersistencia.pdb
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\CapaPersistencia.dll.config
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\MySql.Data.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\Google.Protobuf.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\K4os.Compression.LZ4.Streams.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\Renci.SshNet.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Buffers.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\K4os.Compression.LZ4.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\K4os.Hash.xxHash.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Memory.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\bin\System.Numerics.Vectors.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\CapaPresentacion.dll.config
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\CapaPresentacion.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\CapaPresentacion.pdb
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\csc.exe
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\csc.exe.config
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\csc.rsp
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\csi.exe
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\csi.exe.config
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\csi.rsp
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.AppContext.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Console.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Globalization.Calendars.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.IO.Compression.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Net.Http.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Net.Sockets.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.ValueTuple.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Xml.XPath.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\vbc.exe
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\vbc.exe.config
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\vbc.rsp
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\Antlr3.Runtime.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\CapaAplicacion.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\CapaDominio.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\Microsoft.Web.Infrastructure.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\Newtonsoft.Json.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Helpers.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Mvc.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Optimization.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Razor.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.WebPages.Deployment.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.WebPages.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.WebPages.Razor.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\WebGrease.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\CapaPersistencia.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\MySql.Data.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\Google.Protobuf.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\Zstandard.Net.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\K4os.Compression.LZ4.Streams.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\BouncyCastle.Crypto.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\Ubiety.Dns.Core.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\Renci.SshNet.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Buffers.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\K4os.Compression.LZ4.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\K4os.Hash.xxHash.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Memory.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Numerics.Vectors.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\CapaAplicacion.pdb
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\CapaDominio.pdb
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Helpers.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Mvc.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Optimization.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Razor.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.WebPages.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.WebPages.Deployment.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.WebPages.Razor.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\Newtonsoft.Json.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\Antlr3.Runtime.pdb
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\CapaPersistencia.pdb
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\CapaPersistencia.dll.config
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\MySql.Data.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\Google.Protobuf.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\K4os.Compression.LZ4.Streams.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\Renci.SshNet.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Buffers.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\K4os.Compression.LZ4.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\K4os.Hash.xxHash.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Memory.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\bin\System.Numerics.Vectors.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\csc.rsp
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\csi.exe
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\csi.exe.config
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\csi.rsp
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Console.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\Antlr3.Runtime.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\CapaAplicacion.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\CapaDominio.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\Newtonsoft.Json.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Helpers.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Mvc.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Optimization.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Razor.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.WebPages.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.WebPages.Razor.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\WebGrease.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\CapaPersistencia.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\MySql.Data.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\Google.Protobuf.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\Zstandard.Net.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\BouncyCastle.Crypto.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\Ubiety.Dns.Core.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\Renci.SshNet.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Buffers.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\K4os.Compression.LZ4.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\K4os.Hash.xxHash.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Memory.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Numerics.Vectors.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\CapaAplicacion.pdb
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\CapaDominio.pdb
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Helpers.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Mvc.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Optimization.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.Razor.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.WebPages.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Web.WebPages.Razor.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\Newtonsoft.Json.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\Antlr3.Runtime.pdb
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\CapaPersistencia.pdb
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\CapaPersistencia.dll.config
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\MySql.Data.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\Google.Protobuf.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\Renci.SshNet.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Buffers.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\K4os.Compression.LZ4.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\K4os.Hash.xxHash.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Memory.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\bin\System.Numerics.Vectors.xml
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\espar\OneDrive\Escritorio\Proyecto_Restaurante\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
